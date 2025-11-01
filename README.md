@@ -1,6 +1,6 @@
 # Tic-Tac-Toe game with Reinforcement Learning
 
-<img src="image.png" alt="Tic-Tac-Toe game with Reinforcement Learning">
+<img src="image_ttt_rl.png" alt="Tic-Tac-Toe game with Reinforcement Learning">
 
 <p align="center">
 <a href=""><strong>Documentation</strong> (under development)</a> •
