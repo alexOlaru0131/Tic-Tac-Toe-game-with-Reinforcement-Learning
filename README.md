@@ -13,6 +13,8 @@ This application is made to automatically process the future decisions in a Tic-
 ## How to use
 The game needs to be launched in the center of the screen in order for the algorithm to work well which is already done by default, but results may vary based on the screen resolution.
 
+`The environment is not uploaded in the repository!`
+
 To get to project configuration using ESP-IDF run `idf.py set-target esp32` `idf.py menuconfig`
 
 To build using ESP-IDF run `idf.py build`
